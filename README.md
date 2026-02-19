@@ -41,15 +41,6 @@ I enjoy working on server-side logic, databases, and designing clean architectur
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekaitzblanca&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaitzblanca&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
