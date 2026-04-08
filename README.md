@@ -44,6 +44,38 @@ I enjoy working on server-side logic, databases, and designing clean architectur
 
 ---
 
+## 🚧 Development Roadmap
+
+A quick overview of what I'm building, what I've built, and what's coming next.
+
+### 🟡 In Progress
+
+- **Examy**
+  - Platform designed to practice for Osakidetza public exams through interactive tests.
+  - Includes question management and exam simulation features.
+  - Tech: C# / WPF / JSON
+  - Status: In development
+
+- **Kardoria**
+  - Web-based card collection game where users can open packs and collect anime-themed cards.
+  - Includes collection management and random pack opening mechanics.
+  - Tech: Angular / C# / PostgreSQL
+  - Status: In development
+
+---
+
+### 🟢 Completed
+
+- **None**
+
+---
+
+### 🔵 Planned / Ideas
+
+- **None**
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
